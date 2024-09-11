@@ -32,7 +32,7 @@ Open the project files in your preferred text editor to start development.
 Your contributions are welcome! Please feel free to fork the repository and submit pull requests.
 
 ## Contact
-1. Developer: Vasu - @Vasu-04
+1. Developer: Vasu - [@Vasu-04](https://github.com/Vasu-04)
 2. Project Link: FitHub Website
 
 Feel free to ask queries on email: jindalhimanshu.2004@gmail.com
