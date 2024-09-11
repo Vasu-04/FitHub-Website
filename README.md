@@ -33,6 +33,6 @@ Your contributions are welcome! Please feel free to fork the repository and subm
 
 ## Contact
 1. Developer: Vasu - [@Vasu-04](https://github.com/Vasu-04)
-2. Project Link: FitHub Website
+2. Project Link: [FitHub Website](https://vasu-04.github.io/FitHub-Website/)
 
 Feel free to ask queries on email: jindalhimanshu.2004@gmail.com
