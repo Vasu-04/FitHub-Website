@@ -1,12 +1,13 @@
 # FitHub Website
 
 ## Overview
-FitHub is a web-based application designed to help users manage their health better by providing tools to calculate Body Mass Index (BMI), daily calorie needs, and personalized diet charts. The platform supports various dietary preferences including vegetarian, non-vegetarian, and vegan options.
+FitHub is a web-based application designed to help users manage their health better by providing tools to calculate Body Mass Index (BMI), daily calorie needs, personalized diet charts, and interactive guidance through the FitBuddy chatbot. The platform supports various dietary preferences including vegetarian, non-vegetarian, and vegan options.
 
 ## Features
 - **BMI Calculator:** Calculate your Body Mass Index and understand your health better.
 - **Calorie Intake Calculator:** Estimate the calories you need based on your lifestyle.
 - **Diet Chart Suggestions:** Get diet plans that suit your dietary preferences.
+- **FitBuddy Chatbot:** Interactive chatbot that provides information and responses based on dietician and health care sector data, making it easier for users to access health-related information.
 
 ## Screenshots
 
