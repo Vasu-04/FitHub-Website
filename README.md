@@ -10,6 +10,10 @@ FitHub is a web-based application designed to help users manage their health bet
 - **FitBuddy Chatbot:** Interactive chatbot that provides information and responses based on dietician and health care sector data, making it easier for users to access health-related information.
 
 ## Screenshots
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/5add96d2-6b64-4504-8a54-dc90b089424c"> <img width="500" alt="image" src="https://github.com/user-attachments/assets/e404363a-5480-4a31-af30-2f096de2bf34">  <img width="500" alt="image" src="https://github.com/user-attachments/assets/3f6ef770-e6d2-4c2c-9414-e536e00fc052">  <img width="227" alt="image" src="https://github.com/user-attachments/assets/70191be3-09e5-4f4a-ba16-b3efd21e3511">  <img width="500" alt="image" src="https://github.com/user-attachments/assets/0f6107e3-34e2-43d2-9a62-107c5026bb85">  <img width="227" alt="image" src="https://github.com/user-attachments/assets/9caf0489-ca9c-4953-ab92-f8c3d90eef4e">
+
+
+
 
 
 ## Getting Started
